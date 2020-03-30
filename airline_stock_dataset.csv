@@ -1,0 +1,22 @@
+Company Name,Ticker,Trailing P/E (ttm),Price to Sales (ttm),Price to Book (mrq),Enterprise Value / Revenue,Enterprise Value / EBITDA,Debt to Equity (mrq),Current Ratio (mrq),Free Cash Flow / Capex (ttm),Operating Margin (ttm),Return on Asset (ttm),Market Cap (intraday)
+Delta Airlines,DAL,4.34,0.44,1.32,0.74,3.77,117.17,0.41,0.707,14.15,6.66,20.29
+United Airlines,UAL,3.07,0.21,0.76,0.56,3.55,177.35,0.55,0.526,10.56,5.62,8.81
+Jetblue Airways,JBLU,5.72,0.4,0.63,0.6,3.56,65.68,0.67,0.2535,10.06,4.45,3.01
+Spirit Airlines,SAVE,3.38,0.3,0.5,0.94,4.8,157.34,1.25,1.014,13.55,5.32,1.13
+Southwest Airlines,LUV,9.66,0.99,2.17,0.95,4.99,40.7,0.67,2.88,13.14,7.07,21.33
+Alaska Air Group,ALK,5.25,0.46,0.92,0.65,3.78,74.28,0.64,1.474,12.2,5.6,3.99
+LATAM Airlines,LTM,9.23,0.17,0.56,1.05,22.62,331.33,0.58,0.995,7.48,2.29,1.68
+Hawaiian Holdings,HA,2.68,0.21,0.53,0.47,2.71,125.92,0.81,0.2207,11.19,5.41,0.578
+Mesa Air Group,MESA,3.62,0.2,0.31,1.4,5.47,214.7,0.38,0.3319,16.27,4.97,0.135
+International Consolidated Airlines Group,ICAGY,3.08,0.21,0.76,0.52,2.67,208.73,0.89,0.155,0.01,6.45,4.97
+Skywest,SKYW,4.51,0.52,0.69,1.46,4.59,153.89,0.82,0.0088,17.97,5.15,1.5
+Copa Holdings,CPA,8.03,0.73,1.02,0.92,3.92,70.29,1.19,3.63,16.08,6.45,2.48
+China Eastern Airlines,CEA,16.56,0.32,0.74,0.27,1.24,223.01,0.26,0.01037,0.001,1.87,8.63
+Ryanair Holdings,RYAAY,11.71,1.44,1.9,1.43,6.5,69.08,1.08,1.181,0.001,5.43,11.48
+Allegiant Air,ALGT,6.82,0.85,1.8,1.39,4.83,163.64,0.92,0.1275,19.31,8.06,1.59
+Deutsche Lufthansa AG,DLAKY,3.84,0.13,0.46,0.34,2.4,97.96,0.71,0.0842,0.01,2.44,4.99
+Air France-KLM SA,AFPA,15.7,0.09,1.28,0.33,2.65,490.91,0.68,0.3383,4.14,2.33,2.25
+Air Canada,ACDVF,3.4,0.26,1.11,0.29,1.32,210.04,0.97,1.821,0.001,4.06,3.27
+Wantas Airways Limited,QABSY,6.55,0.31,1.9,0.34,1.86,266.85,0.41,0.5035,0.001,4.1,2.9
+Singapore Airlines Limited,SINGF,11.69,0.5,0.69,0.64,3.57,76.71,0.44,0.3074,0.001,2.5,5.32
+Cathay Specific Airlines Limited,CPCAY,8.21,0.29,0.52,0.13,1.36,154.93,0.48,0.1906,0.001,1.03,4.22
